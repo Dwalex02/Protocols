@@ -80,3 +80,5 @@ This function takes a bytearray header as input and separates its components int
 ## Note
 
 The code assumes a default username `'uname'` if not specified, and a message length of 0 for control messages. The username has a fixed length of 32 bytes, with leading zeros added if the username is shorter.
+
+*The project is not finished yet*
